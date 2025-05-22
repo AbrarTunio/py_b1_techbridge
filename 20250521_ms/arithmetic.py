@@ -10,7 +10,6 @@
 
 ratePerDay = 800
 days = 30
-
 monthlySalary = ratePerDay * days
 
 print( f"The salary of labor is {monthlySalary}" )
@@ -24,4 +23,27 @@ answer = num1 / num2
 # answer = num1 - num2
 # answer = num1 + num2
 print( answer )
+
+
+# For a Showroom
+
+# rateOfSwift = 2000
+# numOfCars = 5
+
+# totalAmount = rateOfSwift * numOfCars
+# print( totalAmount )
+
+
+totalAmount = 15000
+rateOfCar = 1200
+
+numOfCars = 15000 / 1200
+print( numOfCars  )
+
+
+
+
+
+
+
 
